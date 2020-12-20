@@ -1,6 +1,3 @@
-# TBO
-Tugas Teori Bahasa dan Otomata - Text Parsing 
-
 ## Kelompok 1A - Teori Bahasa dan Otomata
 
 - Safira 1808561001
